@@ -12,16 +12,16 @@ The project includes implementations of the following algorithms:
 
     Clustering: Used for customer segmentation and grouping similar products which might be purchased together and a 2nd clustering for predicting based on the customer table how many children customer might have.
     
-   ![clustering](1.png)
+   ![clustering](1.PNG)
 
     Association Rules: Identifying  patterns among products purchased together.
-  ![associationrules](2.png)
+  ![associationrules](2.PNG)
 
     Decision Trees: Predictive modeling for unit sales. 
-   ![decisiontrees](3.png)
+   ![decisiontrees](3.PNG)
 
     Naive Bayes: Classification tasks such as sentiment analysis on products depending on region of purchase.
-   ![naivebayes](4.png)
+   ![naivebayes](4.PNG)
    
     Linear Regression: Forecasting store sales.
-   ![linearregression](5.png)
+   ![linearregression](5.PNG)
