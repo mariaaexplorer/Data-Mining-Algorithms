@@ -11,8 +11,8 @@ Algorithms
 The project includes implementations of the following algorithms:
 
     Clustering: Used for customer segmentation and grouping similar products which might be purchased together and a 2nd clustering for predicting based on the customer table how many children customer might have.
-    ![clustering](1.png)
-
+    
+   ![clustering](1.png)
 
     Association Rules: Identifying  patterns among products purchased together.
   ![associationrules](2.png)
