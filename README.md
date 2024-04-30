@@ -11,7 +11,8 @@ Algorithms
 The project includes implementations of the following algorithms:
 
     Clustering: Used for customer segmentation and grouping similar products which might be purchased together and a 2nd clustering for predicting based on the customer table how many children customer might have.
-    ![clustering](file:///C:/Users/bordewma/Desktop/1.PNG)
+    ![clustering] <img width="657" alt="1" src="https://github.com/mariaaexplorer/Data-Mining-Algorithms/assets/148070770/02f73f16-74e3-4f35-82d2-6e9b12ad9583">
+
 
     Association Rules: Identifying  patterns among products purchased together.
     <img width="587" alt="2" src="https://github.com/mariaaexplorer/Data-Mining-Algorithms/assets/148070770/4e51ebc0-a56c-467a-af9b-274755d474d0">
