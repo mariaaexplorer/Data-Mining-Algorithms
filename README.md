@@ -1,7 +1,6 @@
 Data Mining Project
 
-Welcome to my Data Mining project repository! This project was developed as part of my Master's coursework in Data Mining, showcasing a collection of algorithms and techniques applied to real-world datasets.
-
+This project was developed as part of my Master's coursework in Data Mining, showcasing a collection of algorithms and techniques applied to real-world datasets.
 Overview
 
 In this project, I've explored various data mining structures and algorithms to analyze and extract valuable insights from datasets related to customers, products, and regions. The goal is to demonstrate the application of data mining techniques in uncovering patterns, making predictions, and informing decision-making processes.
